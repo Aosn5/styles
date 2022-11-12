@@ -1,0 +1,48 @@
+.social{
+    display: center;
+    
+    width: 15vw;
+}
+.avatar{
+    width: 75px;
+    height: 80px;
+    border-radius: 50%;
+    float: left;
+    padding: 0 10px;
+}
+.author{
+    padding: 10px;
+    border: 1px solid red;
+    
+}
+.foot{
+    text-align: center;
+    padding: 10px;
+    font-size: 24;
+    color: aquamarine;
+    background-color: #000;
+}
+.btf{
+    background-color: #139;
+    border-radius: 7px;
+    font-size: 24px;
+    color: #ffe
+}
+.bti{
+    color: #ff4;
+    font-size: 24px;
+    background-color: #000;
+    border-radius: 7px;
+    border: 0.5px solid #fff;
+}
+.btt{
+    border-radius: 7px;
+    font-size: 24px;
+    color: #00f;
+
+}
+ @media screen and (min-width: 600px) {
+    body{
+        background-color: #ffe;
+    }
+ }
